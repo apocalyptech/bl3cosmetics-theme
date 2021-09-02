@@ -1,3 +1,13 @@
+# About This Fork
+
+This is a fork of the [mmistakes/minimal-mistakes](https://github.com/mmistakes/minimal-mistakes)
+Jekyll theme which is going to be used for my bl3cosmetics repo.  It's not
+an official Github fork 'cause I've already forked the project once, and
+apparently that's the limit for that.
+
+Thus far there aren't actually any changes, but there'll be at least some
+tweaks in a bit.
+
 # [Minimal Mistakes Jekyll theme](https://mmistakes.github.io/minimal-mistakes/)
 
 [![LICENSE](https://img.shields.io/badge/license-MIT-lightgrey.svg)](https://raw.githubusercontent.com/mmistakes/minimal-mistakes/master/LICENSE)
