@@ -5,8 +5,8 @@ Jekyll theme which is going to be used for <https://apocalyptech.github.io/bl3co
 an official Github fork 'cause I've already forked the project once, and
 apparently that's the limit for that.
 
-Thus far there aren't actually any changes, but there'll be at least some
-tweaks in a bit.
+Changes thus far:
+ * Removed copyright from footer
 
 # [Minimal Mistakes Jekyll theme](https://mmistakes.github.io/minimal-mistakes/)
 
