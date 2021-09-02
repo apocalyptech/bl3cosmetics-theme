@@ -6,7 +6,8 @@ an official Github fork 'cause I've already forked the project once, and
 apparently that's the limit for that.
 
 Changes thus far:
- * Removed copyright from footer
+- Removed copyright from footer
+- Removed the auto-page-title on `single` pages (in `_layouts/single.html`)
 
 # [Minimal Mistakes Jekyll theme](https://mmistakes.github.io/minimal-mistakes/)
 
